@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<# 💫 About Me:
+# 💫 About Me:
 👨‍💻 I'm currently working on<br>Improving network infrastructure and technical support processes, including structured cabling, network optimization, and IT asset management.<br>🤝 I'm looking to collaborate on<br>Networking, infrastructure projects, Java applications, and anything related to systems engineering.<br>🆘 I'm looking for help with<br>Advanced networking labs, automation in Linux, and best practices for scalable network architectures.<br>🌱 I'm currently learning<br>Computer Systems Engineering, CCNA-level networking, Linux administration, IoT fundamentals, and Java development.<br>💬 Ask me about<br>Networking, technical support, troubleshooting, hardware/software maintenance, and structured cabling.<br>⚡ Fun fact<br>I enjoy solving technical challenges, learning new technologies, and finding efficient ways to improve systems.
 
 
