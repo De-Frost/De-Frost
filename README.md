@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hola a Todos, espero que se encuentren Excelente! 👋
 
-# 💫 About Me:
-👨‍💻 I'm currently working on<br>Improving network infrastructure and technical support processes, including structured cabling, network optimization, and IT asset management.<br>🤝 I'm looking to collaborate on<br>Networking, infrastructure projects, Java applications, and anything related to systems engineering.<br>🆘 I'm looking for help with<br>Advanced networking labs, automation in Linux, and best practices for scalable network architectures.<br>🌱 I'm currently learning<br>Computer Systems Engineering, CCNA-level networking, Linux administration, IoT fundamentals, and Java development.<br>💬 Ask me about<br>Networking, technical support, troubleshooting, hardware/software maintenance, and structured cabling.<br>⚡ Fun fact<br>I enjoy solving technical challenges, learning new technologies, and finding efficient ways to improve systems.
+# 💫 Sobre mi:
+👨‍💻 Actualemnte estoy trabajando en <br>Mejora de infraestructura de redes y procesos de soporte técnico, incluyendo cableado estructurado, optimización de redes y gestión de activos de TI.<br>🤝 Busco Colaborar en<br>Proyectos de redes e infraestructura, aplicaciones en Java y todo lo relacionado con ingeniería de sistemas.<br>🆘 Busco Ayuda con<br>ALaboratorios avanzados de redes, automatización en Linux y buenas prácticas para arquitecturas de red escalables.<br>🌱 Actualmente estoy aprendiendo<br>Ingeniería en Sistemas Computacionales, redes nivel CCNA, administración de Linux, fundamentos de IoT y desarrollo en Java..<br>💬 Preguntame sobre<br>Redes, soporte técnico, solución de problemas, mantenimiento de hardware/software y cableado estructurado.<br>⚡ Dato Curioso<br>Disfruto resolver retos técnicos, aprender nuevas tecnologías y encontrar formas eficientes de mejorar sistemas.
 
 
 # 💻 Tech Stack:
